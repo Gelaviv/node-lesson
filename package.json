@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "description": "restful api (backend development}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express js", "body-parser"],
+  "repository": {
+    "type": "git",
+    "url": ""
+
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
